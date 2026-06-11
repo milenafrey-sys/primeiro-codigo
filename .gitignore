@@ -1,2 +1,2 @@
-obj 
-bin
+Console.Write("Informe um numero: ");
+int variavelQueS

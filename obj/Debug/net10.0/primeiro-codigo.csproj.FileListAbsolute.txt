@@ -1,0 +1,15 @@
+C:\Users\milena_frey\Documents\primeiro-codigo\bin\Debug\net10.0\primeiro-codigo.exe
+C:\Users\milena_frey\Documents\primeiro-codigo\bin\Debug\net10.0\primeiro-codigo.deps.json
+C:\Users\milena_frey\Documents\primeiro-codigo\bin\Debug\net10.0\primeiro-codigo.runtimeconfig.json
+C:\Users\milena_frey\Documents\primeiro-codigo\bin\Debug\net10.0\primeiro-codigo.dll
+C:\Users\milena_frey\Documents\primeiro-codigo\bin\Debug\net10.0\primeiro-codigo.pdb
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\primeiro-codigo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\primeiro-codigo.AssemblyInfoInputs.cache
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\primeiro-codigo.AssemblyInfo.cs
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\primeiro-codigo.csproj.CoreCompileInputs.cache
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\primeiro-codigo.sourcelink.json
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\primeiro-codigo.dll
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\refint\primeiro-codigo.dll
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\primeiro-codigo.pdb
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\primeiro-codigo.genruntimeconfig.cache
+C:\Users\milena_frey\Documents\primeiro-codigo\obj\Debug\net10.0\ref\primeiro-codigo.dll
